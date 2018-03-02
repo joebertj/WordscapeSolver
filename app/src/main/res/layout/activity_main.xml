@@ -58,9 +58,13 @@
         android:focusable="false"
         android:gravity="top"
         android:inputType="textMultiLine"
+        android:scrollIndicators="right"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:scrollbars="vertical"
         android:visibility="visible"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button"
-        tools:textAlignment="gravity" />
+        tools:textAlignment="gravity"
+        android:background="@null" />
 
 </android.support.constraint.ConstraintLayout>
