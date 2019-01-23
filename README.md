@@ -1,1 +1,1 @@
-# Wordscapes Solver
+# Word Games Solver

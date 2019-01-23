@@ -1,4 +1,4 @@
-package com.kenchlightyear.wordscapessolver;
+package com.kenchlightyear.wordscapesolver;
 
 import android.app.Activity;
 import android.content.Context;

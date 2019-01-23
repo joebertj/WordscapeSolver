@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WordscapeSolver.iml" filepath="$PROJECT_DIR$/WordscapeSolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordGamesSolver.iml" filepath="$PROJECT_DIR$/WordGamesSolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

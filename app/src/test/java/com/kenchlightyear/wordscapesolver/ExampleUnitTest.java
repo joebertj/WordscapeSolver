@@ -1,4 +1,4 @@
-package com.kenchlightyear.wordscapessolver;
+package com.kenchlightyear.wordscapesolver;
 
 import org.junit.Test;
 
