@@ -1,4 +1,4 @@
-package com.kenchlightyear.wordscapesolver;
+package com.kenchlightyear.wordgamesolver;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.kenchlightyear.wordscapesolver", appContext.getPackageName());
+        assertEquals("com.kenchlightyear.wordgamesolver", appContext.getPackageName());
     }
 }
