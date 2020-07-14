@@ -5,9 +5,9 @@ android {
     defaultConfig {
         applicationId "com.kenchlightyear.wordgamesolver"
         minSdkVersion 14
-        targetSdkVersion 28
+        targetSdkVersion 30
         versionCode 105
-        versionName "1.0.5"
+        versionName "1.0.6"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
